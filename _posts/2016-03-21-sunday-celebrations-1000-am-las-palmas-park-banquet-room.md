@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: FAITH CENTER CELEBRATION SUNDAY
-datePublished: '2016-03-21T18:00:54.463Z'
-dateModified: '2016-03-21T17:57:38.759Z'
-title: ''
+description: ''
+datePublished: '2016-03-21T18:02:19.871Z'
+dateModified: '2016-03-21T18:02:15.768Z'
+title: FAITH CENTER CELEBRATION SUNDAY
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
 published: true
@@ -40,7 +40,7 @@ Email: FaithCenter@gmail.com
 
 ****
 
-**Easter Celebration - Sunday March 27th @ 10:00 am**
+**Easter Celebration - Sunday March 27th @ 10:00 a.m.**
 
 ****
 
