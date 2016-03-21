@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-21T18:20:38.240Z'
-dateModified: '2016-03-21T18:20:27.329Z'
-title: FAITH CENTER CELEBRATION SUNDAY
+description: FAITH CENTER CELEBRATION SUNDAY
+datePublished: '2016-03-21T18:23:56.562Z'
+dateModified: '2016-03-21T18:23:50.337Z'
+title: "www.PastorRudy.com\_"
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
 published: true
@@ -28,7 +28,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691abdda-24db-4081-8f4d-7e530be8242b.png)
 
-[**For more information on Pastor Rudy**][0]
+**[For more information on Pastor Rudy][0]**
 
 Sundays 10:00 am Las Palmas Park (Banquet Room) 
 
@@ -58,8 +58,8 @@ Email: FaithCenter@gmail.com
 
 [Palm Sunday - Behold Your King Sermon][2]
 
-PastorRudy.com
+# www.PastorRudy.com 
 
-[0]: pastorrudy.com
+[0]: www.pastorrudy.com
 [1]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [2]: null
