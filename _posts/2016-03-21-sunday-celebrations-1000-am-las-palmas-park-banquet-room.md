@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sundays 10:00 am Las Palmas Park (Banquet Room)\_"
-datePublished: '2016-03-21T17:44:15.421Z'
-dateModified: '2016-03-21T17:34:04.587Z'
+datePublished: '2016-03-21T17:48:06.176Z'
+dateModified: '2016-03-21T17:47:56.098Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -32,11 +32,11 @@ Sundays 10:00 am Las Palmas Park (Banquet Room)
 
 [505 S. Huntington St, San Fernando CA 91340][0]
 
-[505 S. Huntington St, San Fernando CA 91340][0]
-
 **Call for more information: **818-356-8808
 
 Email: FaithCenter@gmail.com
+
+****
 
 ****
 
@@ -44,7 +44,8 @@ Email: FaithCenter@gmail.com
 
 ****
 
-**Coming March 31, 2016, 7:00 pm. The Neighborhood with special guest Danny Trejo. ** Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N Maclay Ave San Fernando, CA 91340 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f6d5ca-26eb-47b4-b6c3-dfb93c59931a.jpg)
+****Coming March 31, 2016, 7:00 pm. The Neighborhood with special guest Danny Trejo. ** Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N Maclay Ave San Fernando, CA 91340 **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f6d5ca-26eb-47b4-b6c3-dfb93c59931a.jpg)
 
 **Call for more information: **818-356-8808
 
