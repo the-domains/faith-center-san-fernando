@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-21T18:02:19.871Z'
-dateModified: '2016-03-21T18:02:15.768Z'
+datePublished: '2016-03-21T18:20:18.695Z'
+dateModified: '2016-03-21T18:19:41.745Z'
 title: FAITH CENTER CELEBRATION SUNDAY
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -28,9 +28,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691abdda-24db-4081-8f4d-7e530be8242b.png)
 
+[For more information on Pastor Rudy][0]
+
 Sundays 10:00 am Las Palmas Park (Banquet Room) 
 
-[505 S. Huntington St, San Fernando CA 91340][0]
+[505 S. Huntington St, San Fernando CA 91340][1]
 
 **Call for more information: **818-356-8808
 
@@ -49,12 +51,13 @@ Email: FaithCenter@gmail.com
 
 **Call for more information: **818-356-8808
 
-**[Faith Center Podcast][1]**
+**[Faith Center Podcast][2]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
 
-[http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][1]
+[http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][2]
 
-[Palm Sunday - Behold Your King Sermon][1]
+[Palm Sunday - Behold Your King Sermon][2]
 
-[0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
-[1]: null
+[0]: pastorrudy.com
+[1]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
+[2]: null
