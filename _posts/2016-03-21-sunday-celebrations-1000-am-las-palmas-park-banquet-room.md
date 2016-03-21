@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Sundays 10:00 am Las Palmas Park (Banquet Room)'
-datePublished: '2016-03-21T17:33:53.821Z'
-dateModified: '2016-03-21T17:33:19.835Z'
+description: "Sundays 10:00 am Las Palmas Park (Banquet Room)\_"
+datePublished: '2016-03-21T17:44:15.421Z'
+dateModified: '2016-03-21T17:34:04.587Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
