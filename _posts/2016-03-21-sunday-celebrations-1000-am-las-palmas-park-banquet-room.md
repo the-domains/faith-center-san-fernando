@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: FAITH CENTER CELEBRATION SUNDAY
-datePublished: '2016-03-22T18:23:41.171Z'
-dateModified: '2016-03-22T18:22:52.882Z'
+datePublished: '2016-03-22T18:24:18.944Z'
+dateModified: '2016-03-22T18:23:54.655Z'
 title: "www.PastorRudy.com\_"
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -44,7 +44,7 @@ _type: Article
 
 ****
 
-****Coming March 31, 2016, 7:00 pm. The Neighborhood with special guest Danny Trejo. ** Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
+**Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f6d5ca-26eb-47b4-b6c3-dfb93c59931a.jpg)
 
 **Call for more information: **818-356-8808
