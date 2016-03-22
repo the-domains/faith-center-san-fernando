@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: FAITH CENTER CELEBRATION SUNDAY
-datePublished: '2016-03-22T18:20:32.044Z'
-dateModified: '2016-03-21T18:48:39.901Z'
+datePublished: '2016-03-22T18:23:41.171Z'
+dateModified: '2016-03-22T18:22:52.882Z'
 title: "www.PastorRudy.com\_"
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -55,8 +55,6 @@ _type: Article
 [http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][1]
 
 [Palm Sunday - Behold Your King Sermon][1]
-
-www.PastorRudy.com 
 
 [0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [1]: null
