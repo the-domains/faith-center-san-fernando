@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T15:50:58.282Z'
-dateModified: '2016-03-24T15:41:31.660Z'
+datePublished: '2016-03-24T15:52:30.446Z'
+dateModified: '2016-03-24T15:51:59.021Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -56,7 +56,7 @@ of our Lord in an intimate friendly atmosphere with lively praise & worship and 
 ![Stop the Violence ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8620ef0d-a2ff-432e-a0fa-b0ae9da7f9de.jpg)
 
 **[Faith Center Podcast][1]**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd40b934-9079-4d08-a724-8a1f21203ec1.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1e687d61ef1bcded44265955438b5efff690aaf.jpg)
 
 [0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [1]: http://pastorrudy.podbean.com/
