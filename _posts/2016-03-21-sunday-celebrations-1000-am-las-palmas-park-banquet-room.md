@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T14:30:09.449Z'
-dateModified: '2016-03-24T14:29:53.829Z'
+datePublished: '2016-03-24T14:45:29.073Z'
+dateModified: '2016-03-24T14:36:15.230Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -30,9 +30,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 
 **Sunday celebration consists of a time of praise and worship
-of our Lord in an intimate friendly atmosphere with lively praise & worship.
-We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691abdda-24db-4081-8f4d-7e530be8242b.png)
+of our Lord in an intimate friendly atmosphere with lively praise & worship and the preaching, teaching of the word of God with Pastor Rudy.**
+
+**We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5145822b6d20f959a3083b87331e4e42/passthrough.png?height=438&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F03049f7475eaf34bc110a65b540a2875d18cee78.png&width=750)
 
 **Sundays 10:00 am Las Palmas Park (Banquet Room) **
@@ -50,7 +50,8 @@ We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 **Easter Celebration - Sunday March 27th @ 10:00 a.m.**
 
 **Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/baf299fb13dfba450b3b82d85ebc6d62/passthrough.jpg?height=581&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb6f30d3cce447545b95650d6dc004b0637dfc34a.jpg&width=750)
+
+****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
 
 **[Faith Center Podcast][1]**
@@ -59,6 +60,7 @@ We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 [http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][2]
 
 [Palm Sunday - Behold Your King Sermon][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0427966-4de8-4cab-99fb-9b7bd7577029.png)
 
 [0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [1]: http://pastorrudy.podbean.com/
