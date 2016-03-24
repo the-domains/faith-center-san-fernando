@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: FAITH CENTER CELEBRATION SUNDAY
-datePublished: '2016-03-22T18:24:18.944Z'
-dateModified: '2016-03-22T18:23:54.655Z'
-title: "www.PastorRudy.com\_"
+description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
+datePublished: '2016-03-24T14:27:11.379Z'
+dateModified: '2016-03-24T14:26:55.166Z'
+title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
 published: true
@@ -22,11 +22,20 @@ url: sunday-celebrations-1000-am-las-palmas-park-banquet-room/index.html
 _type: Article
 
 ---
-**FAITH CENTER CELEBRATION SUNDAY**
+**LOVE, FAITH and HOPE in CHRIST JESUS!**
 
-**Lively Praise & Worship with a Kids Zone**
+**Faith Center a place of experiencing God's Love**
+
+****
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
+
+**Sunday celebration consists of a time of praise and worship
+of our Lord in an intimate friendly atmosphere with lively praise & worship.
+We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691abdda-24db-4081-8f4d-7e530be8242b.png)
+
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5145822b6d20f959a3083b87331e4e42/passthrough.png?height=438&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F03049f7475eaf34bc110a65b540a2875d18cee78.png&width=750)
 
 **Sundays 10:00 am Las Palmas Park (Banquet Room) **
 
@@ -42,19 +51,17 @@ _type: Article
 
 **Easter Celebration - Sunday March 27th @ 10:00 a.m.**
 
-****
-
 **Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f6d5ca-26eb-47b4-b6c3-dfb93c59931a.jpg)
-
-**Call for more information: **818-356-8808
-
-**[Faith Center Podcast][1]**
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/baf299fb13dfba450b3b82d85ebc6d62/passthrough.jpg?height=581&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb6f30d3cce447545b95650d6dc004b0637dfc34a.jpg&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
 
-[http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][1]
+**[Faith Center Podcast][1]**
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36c4679296e5715404604d326e4407ea/passthrough.jpg?height=453&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe5ad35f48d5dce49d494e667b3bc622c6bc3e120.jpg&width=467)
+
+[http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][2]
 
 [Palm Sunday - Behold Your King Sermon][1]
 
 [0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [1]: null
+[2]: http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/
