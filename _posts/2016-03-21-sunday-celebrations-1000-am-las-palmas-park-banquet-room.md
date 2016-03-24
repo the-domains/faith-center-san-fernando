@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T15:12:42.426Z'
-dateModified: '2016-03-24T15:12:04.900Z'
+datePublished: '2016-03-24T15:14:29.125Z'
+dateModified: '2016-03-24T15:14:04.947Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
