@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T14:51:00.477Z'
-dateModified: '2016-03-24T14:50:58.158Z'
+datePublished: '2016-03-24T14:56:14.910Z'
+dateModified: '2016-03-24T14:56:13.770Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -50,8 +50,10 @@ of our Lord in an intimate friendly atmosphere with lively praise & worship and 
 
 **Easter Celebration - Sunday March 27th @ 10:00 a.m.**
 
-**Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0427966-4de8-4cab-99fb-9b7bd7577029.png)
+**Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340  (This event brings together Youth & Family resources to enhance family life within the community)**
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8620ef0d-a2ff-432e-a0fa-b0ae9da7f9de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
 
 **[Faith Center Podcast][1]**
