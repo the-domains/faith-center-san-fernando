@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T14:56:14.910Z'
-dateModified: '2016-03-24T14:56:13.770Z'
+datePublished: '2016-03-24T15:04:38.122Z'
+dateModified: '2016-03-24T15:03:42.510Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -53,8 +53,7 @@ of our Lord in an intimate friendly atmosphere with lively praise & worship and 
 **Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340  (This event brings together Youth & Family resources to enhance family life within the community)**
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8620ef0d-a2ff-432e-a0fa-b0ae9da7f9de.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
+![Stop the Violence ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8620ef0d-a2ff-432e-a0fa-b0ae9da7f9de.jpg)
 
 **[Faith Center Podcast][1]**
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36c4679296e5715404604d326e4407ea/passthrough.jpg?height=453&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fe5ad35f48d5dce49d494e667b3bc622c6bc3e120.jpg&width=467)
