@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "LOVE, FAITH and HOPE in CHRIST JESUS.\_Faith Center a place of experiencing God's Grace, Love and Forgiveness which brings a NEW LIFE IN CHRIST!"
-datePublished: '2016-03-24T16:05:09.879Z'
-dateModified: '2016-03-24T16:03:13.882Z'
+datePublished: '2016-03-24T16:07:31.616Z'
+dateModified: '2016-03-24T16:05:21.294Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
