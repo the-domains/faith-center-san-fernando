@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T15:55:31.149Z'
-dateModified: '2016-03-24T15:54:46.501Z'
+datePublished: '2016-03-24T15:58:32.307Z'
+dateModified: '2016-03-24T15:58:31.889Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -24,14 +24,12 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 
-**LOVE, FAITH and HOPE in CHRIST JESUS!**
-
-**Faith Center a place of experiencing God's Love**
+**LOVE, FAITH and HOPE in CHRIST JESUS. ****Faith Center a place of experiencing God's Grace, Love and Forgiveness which brings a NEW LIFE IN CHRIST!**
 
 ****
 
 **Sunday celebration consists of a time of praise and worship
-of our Lord in an intimate friendly atmosphere with lively praise & worship and the preaching, teaching of the word of God with Pastor Rudy. (click to enter)**
+of our Lord in an intimate friendly atmosphere with lively praise & worship and the preaching, teaching of the word of God with Pastor Rudy. **
 
 **We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5145822b6d20f959a3083b87331e4e42/passthrough.png?height=438&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F03049f7475eaf34bc110a65b540a2875d18cee78.png&width=750)
