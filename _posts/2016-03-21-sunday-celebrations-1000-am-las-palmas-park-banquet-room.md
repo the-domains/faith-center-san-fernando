@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T14:45:29.073Z'
-dateModified: '2016-03-24T14:36:15.230Z'
+datePublished: '2016-03-24T14:51:00.477Z'
+dateModified: '2016-03-24T14:50:58.158Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -22,12 +22,13 @@ url: sunday-celebrations-1000-am-las-palmas-park-banquet-room/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
+
 **LOVE, FAITH and HOPE in CHRIST JESUS!**
 
 **Faith Center a place of experiencing God's Love**
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 
 **Sunday celebration consists of a time of praise and worship
 of our Lord in an intimate friendly atmosphere with lively praise & worship and the preaching, teaching of the word of God with Pastor Rudy.**
@@ -50,8 +51,7 @@ of our Lord in an intimate friendly atmosphere with lively praise & worship and 
 **Easter Celebration - Sunday March 27th @ 10:00 a.m.**
 
 **Coming March 31, 2016, 7:00 pm. **_**The Neighborhood **_**with special guest Danny Trejo.   Presentation features 4 changed lives coming out of violence. Door open at 6:30 pm. 777 N. Maclay Ave San Fernando, CA 91340 **
-
-****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0427966-4de8-4cab-99fb-9b7bd7577029.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57df8685-3b05-42d9-bd24-f06afd3e0eb7.jpg)
 
 **[Faith Center Podcast][1]**
@@ -60,7 +60,6 @@ of our Lord in an intimate friendly atmosphere with lively praise & worship and 
 [http://pastorrudy.podbean.com/e/palm-sunday-behold-your-king-pastor-rudy/][2]
 
 [Palm Sunday - Behold Your King Sermon][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0427966-4de8-4cab-99fb-9b7bd7577029.png)
 
 [0]: https://www.google.com/maps/place/505+S.+Huntington+St,+San+Fernando+CA+91340/@34.2857856,-118.4492502,3a,75y,263.47h,90t/data=!3m7!1e1!3m4!1sgDDWHj2nD5C7ZwMZ3zg2CQ!2e0!7i13312!8i6656!4b1!4m2!3m1!1s0x0:0x24eca5be609444eb!6m1!1e1
 [1]: http://pastorrudy.podbean.com/
