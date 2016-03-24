@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'LOVE, FAITH and HOPE in CHRIST JESUS!'
-datePublished: '2016-03-24T14:27:52.131Z'
-dateModified: '2016-03-24T14:27:49.676Z'
+datePublished: '2016-03-24T14:30:09.449Z'
+dateModified: '2016-03-24T14:29:53.829Z'
 title: FAITH CENTER
 author: []
 sourcePath: _posts/2016-03-21-sunday-celebrations-1000-am-las-palmas-park-banquet-room.md
@@ -27,14 +27,12 @@ _type: Article
 **Faith Center a place of experiencing God's Love**
 
 ****
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3097cf59-83ea-47fb-9c4c-b7112bf0721c.jpg)
 
 **Sunday celebration consists of a time of praise and worship
 of our Lord in an intimate friendly atmosphere with lively praise & worship.
 We also offer a Kids Zone where kids have fun, play and learn about Jesus.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691abdda-24db-4081-8f4d-7e530be8242b.png)
-
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5145822b6d20f959a3083b87331e4e42/passthrough.png?height=438&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F03049f7475eaf34bc110a65b540a2875d18cee78.png&width=750)
 
 **Sundays 10:00 am Las Palmas Park (Banquet Room) **
